@@ -14,7 +14,7 @@ attr_accessor :appointments
   end
 
   def appointments
-    @appointments
+    self.appointments
   end
 
   def patients
